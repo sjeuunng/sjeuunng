@@ -3,9 +3,9 @@
 ---
 ### Um
 
-*가*
+*가* \n
 **나**
---다--
+~~다~~
 
 <!--
 **sjeuunng/sjeuunng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
