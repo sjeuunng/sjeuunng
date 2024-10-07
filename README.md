@@ -3,15 +3,8 @@
 </p>
 
 ---
----
-### Um
----
-*가*
----
-**나**
-~~다~~
-> 12345
-<!--
+## 현재 Github 작성 중에 있습니다.
+
 **sjeuunng/sjeuunng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
