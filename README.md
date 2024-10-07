@@ -1,4 +1,4 @@
-<p align='center' style='font-color: #321432'>
+<p align='center' style='font-size: 30px'>
   # Seungjun KIM
 </p>
 
