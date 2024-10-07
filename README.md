@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align='center'>
+  # Seungjun KIM
+</p>
+
 ---
 ---
 ### Um
