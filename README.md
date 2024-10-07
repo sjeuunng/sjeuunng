@@ -1,4 +1,4 @@
-<p align='center'; font-size: 30px;>
+<p align='center'; color: #f03c15>
   Seungjun KIM
 </p>
 
