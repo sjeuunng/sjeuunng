@@ -1,5 +1,5 @@
 <p align='center' color: red>
-  # Seungjun KIM
+  Seungjun KIM
 </p>
 
 ---
